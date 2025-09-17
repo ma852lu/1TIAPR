@@ -38,7 +38,7 @@ lista_num.append(5)
 soma = sum(lista_num)
 
 
-lista_palavras = ['bosta', 'merda', 'programa']
+lista_palavras = ['bosta', 'merda', 'vagabunda']
 
 frase = ', '.join(lista_palavras) + '.'
 
