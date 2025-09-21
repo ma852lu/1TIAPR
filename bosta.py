@@ -1,8 +1,13 @@
-#bosta
+def main():
+    num = int(input("Digite um número inteiro: "))
+    if num > 0:
+        print("O número é positivo")
+    elif num < 0:
+        print("O número é negativo")
+    else:
+        print("O número é zero")
 
-variavel = 'ABC'
-print(f'{variavel}')
-print(f'{variavel: >7}')
-print(f'{variavel: <7}')
-print(f'{variavel: ^7}')
-print(f'{variavel}')
+if __name__ == "__main__":
+    main()
+
+

@@ -1,4 +1,3 @@
-'''
 for x in range(1):
     print(x)
 
@@ -12,4 +11,3 @@ for letra in "python":
 
 for numero in range(5, 15, 2):
     print(numero)
-'''
