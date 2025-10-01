@@ -40,3 +40,6 @@ for linha in matriz:
     #imprimir uma nova linha após cada linha da matriz
     print() 
 
+
+
+
